@@ -57,7 +57,7 @@ function Hotel() {
                 <div>
                     <p>
                         <span className="fa fa-bed icon-size"></span>
-                        <span className="marginleft fontsize">ROOMS</span>
+                        <span className="marginleft fontsize">ROOM</span>
                         <span className="floatright">
                             <button type="button" onClick={() => decrementrooms()} className="btnpad btnradius btncolor leftbtn">
                                 <span className="glyphicon glyphicon-minus"></span>
